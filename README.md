@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hej there 👋 My name is Colette and I am a full stack Web dev living in Germany 🇩🇪.
 <!--
 **ColetteJParker91/colettejparker91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
