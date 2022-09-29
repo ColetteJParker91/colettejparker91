@@ -5,7 +5,7 @@ Hej there 👋 My name is Colette and I am a full stack Web dev living in German
 You can also find me here
 <br></br>
 [<img alt="Colette on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/Colette_P1)
-[<img alt="Colette on Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@colette.joy.parker)
+[<img alt="Colette on Medium" src="https://img.shields.io/badge/Medium-9F5F80?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@colette.joy.parker)
 [<img alt="Colette on Linkedin" src="https://img.shields.io/badge/Linkedin-FF8474?style=for-the-badge&logo=medium&logoColor=white"/>](https://www.linkedin.com/in/colettejoyparker/)
 
 <!--
